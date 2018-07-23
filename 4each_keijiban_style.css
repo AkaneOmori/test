@@ -1,0 +1,177 @@
+.blog_logo img{
+      width: 300px;
+}
+
+.header_menu{
+      width: 100%;
+      background-color: black;
+      height: 60px;
+}
+
+
+
+.header_menu li{
+      color: white;
+      list-style: none;
+      float: left;
+      line-height: 40px;
+      font-size: 18px;
+      margin-top: 10px;
+      margin-left: 0px;
+      margin-right: 20px;
+      padding-right: 80px;
+
+}
+
+main{
+      clear: left;
+      width: 100%;
+}
+
+
+.left{
+      float: left;
+      width: 70%;
+}
+
+
+
+
+h1{
+    
+      border-left: 5px solid black;
+      border-bottom: 3px solid black;
+      padding-left: 5px;
+      margin-bottom: 0;
+}
+
+
+
+.nyuryoku_title{
+      border-left: 5px solid #DF0101;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-left: 10px;
+      padding-left: 5px;
+      font-size: 18px;
+      font-weight: bold;
+      
+    }
+
+
+.nyuryoku_form{
+      background-color: #fbfbfb;
+      border: 3px #ebebeb solid;
+      margin-top: 10px;
+      margin-left: 5px;
+      margin-bottom: 10px;
+      width: 98%;
+}
+
+
+form div{
+      padding-left: 10px;
+}
+
+
+.text,.textarea{
+      border: 1px solid lightgray;
+      margin-left: 10px;
+
+}
+
+
+.submit{
+      border: 1px solid #dfdfdf;
+      padding: 4px 10px;
+      color: white;
+      background-color: gray;
+      border-radius: 5px;
+      border-bottom: solid 2px black;
+      margin-left: 10px;
+      margin-bottom: 10px;
+}
+
+
+.kiji_toko{
+      background-color: #fbfbfb;
+      border: 3px #ebebeb solid;
+      margin-top: 10px;
+      margin-left: 5px;
+      margin-bottom: 10px;
+      width: 98%;   
+}
+
+
+.kiji_title_1{
+      border-left: 5px;
+      margin-top: 10px;
+      margin-bottom: 20px;
+      margin-left: 10px;
+      padding-left: 5px;
+      font-size: 18px;
+      font-weight: bold; 
+      border-bottom: solid 2px #dfdfdf;
+}
+
+
+.kiji_nakami{
+      margin-left: 10px;
+}
+
+
+.posted{
+      margin-top: 5px;
+      margin-left: 10px;
+      margin-bottom: 10px;
+      font-size: small;
+}
+
+
+.right{
+    
+      width: 25%;
+      float: left;
+      margin-left: 10px;
+
+    
+}
+
+
+h3{
+    
+      border-bottom-style: dotted;
+      border-color: lightgray;
+      margin-left: 20px;
+      margin-top: 40px;
+
+
+}
+
+.right ul{
+      margin-top: -10px;
+      margin-left: -15px;
+    
+}
+
+.right li{
+     
+      list-style: none;
+
+    
+}
+
+footer{
+    
+      clear: left;
+      width: 100%;
+      height: 30px;
+      background-color: black;
+      color: white;
+      text-align: center;
+      padding-top: 20px;
+      padding-bottom: 20px;
+
+}
+
+
