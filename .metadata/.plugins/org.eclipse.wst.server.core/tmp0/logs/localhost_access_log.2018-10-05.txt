@@ -39,3 +39,10 @@
 0:0:0:0:0:0:0:1 - - [05/Oct/2018:21:00:24 +0900] "POST /WebProj2/InquiryCompleteAction.action HTTP/1.1" 200 312
 0:0:0:0:0:0:0:1 - - [05/Oct/2018:21:00:38 +0900] "POST /WebProj2/InquiryCompleteAction.action HTTP/1.1" 200 320
 0:0:0:0:0:0:0:1 - - [05/Oct/2018:21:00:51 +0900] "POST /WebProj2/InquiryCompleteAction.action HTTP/1.1" 200 346
+127.0.0.1 - - [05/Oct/2018:21:22:02 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [05/Oct/2018:21:22:05 +0900] "GET /WebProj2/ HTTP/1.1" 200 2094
+0:0:0:0:0:0:0:1 - - [05/Oct/2018:21:22:17 +0900] "GET /WebProj2/TestAction.action?username=aaaaaaa&password=bbbbbb HTTP/1.1" 200 10651
+0:0:0:0:0:0:0:1 - - [05/Oct/2018:21:23:39 +0900] "GET /WebProj2/ HTTP/1.1" 200 2094
+0:0:0:0:0:0:0:1 - - [05/Oct/2018:21:23:49 +0900] "GET /WebProj2/TestAction.action?username=test&password=test HTTP/1.1" 200 196
+0:0:0:0:0:0:0:1 - - [05/Oct/2018:21:24:25 +0900] "GET /WebProj2/TestAction.action?username=test&password=testtest HTTP/1.1" 200 196
+0:0:0:0:0:0:0:1 - - [05/Oct/2018:21:24:32 +0900] "GET /WebProj2/TestAction.action?username=test&password=test HTTP/1.1" 200 196
