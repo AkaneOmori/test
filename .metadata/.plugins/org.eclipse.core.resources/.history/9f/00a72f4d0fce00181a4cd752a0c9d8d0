@@ -1,0 +1,8 @@
+package com.internousdev.webproj3.action;
+
+public class WelcomeAction extends ActionSuppot{
+	public String execute(){
+		return SUCCESS;
+	}
+
+}
