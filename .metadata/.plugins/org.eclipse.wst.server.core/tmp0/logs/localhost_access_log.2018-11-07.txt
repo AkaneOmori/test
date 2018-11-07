@@ -1,0 +1,11 @@
+127.0.0.1 - - [07/Nov/2018:19:41:22 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:19:41:25 +0900] "GET /WebProj4/ HTTP/1.1" 200 2321
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:19:42:06 +0900] "GET /WebProj4/TestAction.action;jsessionid=38FD80607600A225543F871CDEEB71CB?username=aaaaaaa&password=aaaaaa HTTP/1.1" 200 516
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:19:42:07 +0900] "GET /WebProj4/css/style.css HTTP/1.1" 200 1416
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:19:42:30 +0900] "GET /WebProj4/TestAction.action;jsessionid=38FD80607600A225543F871CDEEB71CB?username=aiueo&password=aiueo HTTP/1.1" 200 516
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:19:43:04 +0900] "GET /WebProj4/TestAction.action;jsessionid=38FD80607600A225543F871CDEEB71CB?username=aaaiii&password=uuueeeooo HTTP/1.1" 200 516
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:19:43:47 +0900] "GET /WebProj4/TestAction.action;jsessionid=38FD80607600A225543F871CDEEB71CB?username=aaaiii&password= HTTP/1.1" 200 516
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:19:45:51 +0900] "GET /WebProj4/ HTTP/1.1" 200 2101
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:19:45:58 +0900] "GET /WebProj4/TestAction.action?username=aaaa&password=iiii HTTP/1.1" 200 420
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:19:45:58 +0900] "GET /WebProj4/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Nov/2018:19:46:18 +0900] "GET /WebProj4/TestAction.action?username=post&password=post HTTP/1.1" 200 420
